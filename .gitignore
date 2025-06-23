@@ -6,6 +6,7 @@ __pycache__/
 # Data
 data/accepted.csv
 data/rejected.csv
+data/accepted_cleaned.csv
 
 # C extensions
 *.so
